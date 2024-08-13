@@ -1,4 +1,4 @@
-package com.bram.car_database;
+package com.bram.cardatabase;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
